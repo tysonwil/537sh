@@ -1,0 +1,14 @@
+Author: Tyson Williams
+Last updated: 2/14/13
+
+Contents:
+537sh.c
+batchfile
+
+Usage:
+prompt% ./537sh
+OR
+537sh [batchfile]
+
+http://pages.cs.wisc.edu/~swift/classes/cs537-sp13/wiki/pmwiki.php?n=PmWiki.Project1-sp13
+
